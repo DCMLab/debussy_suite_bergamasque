@@ -243,9 +243,7 @@
           <text><sym>unicodeNoteQuarterUp</sym> = 170</text>
           </Tempo>
         <Harmony>
-          <root>20</root>
-          <rootCase>1</rootCase>
-          <name>.i</name>
+          <name>.f#.i</name>
           </Harmony>
         <Rest>
           <durationType>measure</durationType>

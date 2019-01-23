@@ -248,9 +248,7 @@
           <text><sym>unicodeNoteQuarterUp</sym> = 80</text>
           </Tempo>
         <Harmony>
-          <root>17</root>
-          <rootCase>1</rootCase>
-          <name>.iv7(+6)</name>
+          <name>.a.iv7(+6)</name>
           <pos x="0" y="-3.00749"/>
           </Harmony>
         <Chord>

@@ -229,8 +229,7 @@
           <text><sym>unicodeNoteQuarterUp</sym> = 90</text>
           </Tempo>
         <Harmony>
-          <root>13</root>
-          <name>.I</name>
+          <name>.F.I</name>
           </Harmony>
         <Rest>
           <durationType>half</durationType>
