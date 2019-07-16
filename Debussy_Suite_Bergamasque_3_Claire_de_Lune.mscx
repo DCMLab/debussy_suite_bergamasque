@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programRevision>3543170</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -831,6 +831,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <tick>16920</tick>
+        <Harmony>
+          <name>V7</name>
+          </Harmony>
         <tick>15120</tick>
         <Chord>
           <track>1</track>
@@ -2891,9 +2895,7 @@
           </Harmony>
         <tick>57600</tick>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>III6</name>
+          <name>.bIII6</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -2957,9 +2959,7 @@
           </Harmony>
         <tick>59760</tick>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>III6</name>
+          <name>.bIII6</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -3607,9 +3607,7 @@
           </Harmony>
         <tick>74880</tick>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>III6</name>
+          <name>.bIII6</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -4204,7 +4202,7 @@
           <accidental>-5</accidental>
           </KeySig>
         <Harmony>
-          <name>I.V&quot;V7(4)</name>
+          <name>I.V[V7(4)</name>
           <pos x="0" y="-2.3"/>
           </Harmony>
         <Chord>
@@ -4588,7 +4586,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V7&quot;</name>
+          <name>V7]</name>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -5137,7 +5135,7 @@
         </Measure>
       <Measure number="51">
         <Harmony>
-          <name>iii&quot;iii</name>
+          <name>iii[iii</name>
           </Harmony>
         <Rest>
           <durationType>quarter</durationType>
@@ -5271,7 +5269,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>vi43&quot;</name>
+          <name>vi43]</name>
           </Harmony>
         <Tuplet id="21">
           <normalNotes>3</normalNotes>
@@ -6377,9 +6375,7 @@
           <durationType>eighth</durationType>
           </Rest>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>III6</name>
+          <name>.bIII6</name>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -6444,9 +6440,7 @@
           <durationType>eighth</durationType>
           </Rest>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>III6</name>
+          <name>.bIII6</name>
           <pos x="-1.46872" y="-4.64185"/>
           </Harmony>
         <Chord>
@@ -6496,9 +6490,7 @@
         </Measure>
       <Measure number="70">
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>III6</name>
+          <name>.bIII6</name>
           <pos x="-1.52247" y="-4.76872"/>
           </Harmony>
         <Chord>
@@ -7013,10 +7005,6 @@
             <tpc>8</tpc>
             </Note>
           </Chord>
-        <Harmony>
-          <name>V7</name>
-          <pos x="0.480616" y="-12.9304"/>
-          </Harmony>
         <Chord>
           <Tuplet>23</Tuplet>
           <durationType>eighth</durationType>

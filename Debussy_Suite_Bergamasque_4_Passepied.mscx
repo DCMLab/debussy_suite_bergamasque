@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programRevision>3543170</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -142,6 +142,10 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
         <System>
           </System>
         </Page>
@@ -2470,8 +2474,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>15</root>
-          <name>er6/V</name>
+          <name>.Ger6/V</name>
           <pos x="-1" y="-3.5"/>
           </Harmony>
         <Chord>
@@ -2608,8 +2611,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>15</root>
-          <name>er6/V</name>
+          <name>.Ger6/V</name>
           <pos x="-1" y="-3.5"/>
           </Harmony>
         <Chord>
@@ -4336,9 +4338,7 @@
         </Measure>
       <Measure number="63">
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II</name>
+          <name>.bII</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -4499,9 +4499,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>IM7</name>
+          <name>.bIM7</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -4563,9 +4561,7 @@
         </Measure>
       <Measure number="65">
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II</name>
+          <name>.bII</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -5323,7 +5319,7 @@
         </Measure>
       <Measure number="74">
         <Harmony>
-          <name>ii5</name>
+          <name>ii</name>
           <pos x="0" y="-3.5"/>
           </Harmony>
         <Chord>
@@ -5442,9 +5438,7 @@
           <accidental>-4</accidental>
           </KeySig>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>III.I</name>
+          <name>.bIII.I</name>
           <pos x="-1.14185" y="-5.42555"/>
           </Harmony>
         <Chord>
@@ -6070,7 +6064,7 @@
           <accidental>3</accidental>
           </KeySig>
         <Harmony>
-          <name>i.ii&quot;VII6</name>
+          <name>i.ii[VII6</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -6918,7 +6912,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>IV6(+6)&quot;</name>
+          <name>IV6(+6)]</name>
           <pos x="-0.1" y="-3.5"/>
           </Harmony>
         <Chord>
@@ -9846,8 +9840,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>15</root>
-          <name>er6/V</name>
+          <name>.Ger6/V</name>
           <pos x="-1" y="-3.5"/>
           </Harmony>
         <Chord>
@@ -9980,8 +9973,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>15</root>
-          <name>er6/V</name>
+          <name>.Ger6/V</name>
           <pos x="-1" y="-3.5"/>
           </Harmony>
         <Chord>
@@ -10369,7 +10361,7 @@
         </Measure>
       <Measure number="147">
         <Harmony>
-          <name>i5</name>
+          <name>i</name>
           <pos x="0" y="-5.5"/>
           </Harmony>
         <Chord>
@@ -10535,7 +10527,7 @@
         </Measure>
       <Measure number="149">
         <Harmony>
-          <name>i5</name>
+          <name>i</name>
           <pos x="0" y="-5.5"/>
           </Harmony>
         <endSpanner id="65"/>
@@ -10702,7 +10694,7 @@
         </Measure>
       <Measure number="151">
         <Harmony>
-          <name>i5</name>
+          <name>i</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -10880,7 +10872,7 @@
         </Measure>
       <Measure number="154">
         <Harmony>
-          <name>i5\\</name>
+          <name>i\\</name>
           <pos x="0" y="-4.6"/>
           </Harmony>
         <Chord>
@@ -10910,9 +10902,6 @@
           </Rest>
         </Measure>
       <Measure number="155">
-        <Harmony>
-          <name>i</name>
-          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>

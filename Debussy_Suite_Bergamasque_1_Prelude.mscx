@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programRevision>3543170</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -128,6 +128,10 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
         <System>
           </System>
         </Page>
@@ -6993,7 +6997,7 @@
         </Measure>
       <Measure number="52">
         <Harmony>
-          <name>I&quot;IM7(+2)</name>
+          <name>I[IM7(+2)</name>
           <pos x="0" y="-6.5"/>
           </Harmony>
         <Chord>
@@ -7250,7 +7254,7 @@
         </Measure>
       <Measure number="55">
         <Harmony>
-          <name>viio43(+2)/V&quot;</name>
+          <name>viio43(+2)/V]</name>
           <pos x="-1.07461" y="-6.33788"/>
           </Harmony>
         <Chord>
@@ -9660,7 +9664,7 @@
         </Measure>
       <Measure number="76">
         <Harmony>
-          <name>V&quot;V7</name>
+          <name>V[V7</name>
           <pos x="-1.25176" y="-5.00352"/>
           </Harmony>
         <Chord>
@@ -9786,7 +9790,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>vi6&quot;</name>
+          <name>vi6]</name>
           <pos x="0" y="-4.5"/>
           </Harmony>
         <Chord>

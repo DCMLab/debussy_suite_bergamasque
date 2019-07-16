@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programRevision>3543170</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -3675,9 +3675,7 @@
         </Measure>
       <Measure number="22">
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>V</name>
+          <name>.bV</name>
           <pos x="-0.1" y="-3.5"/>
           </Harmony>
         <Chord>
@@ -4133,7 +4131,7 @@
         </Measure>
       <Measure number="26">
         <Harmony>
-          <name>VI&quot;V7(42)/bII</name>
+          <name>VI[V7(42)/bII</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -4287,9 +4285,7 @@
         </Measure>
       <Measure number="27">
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II64</name>
+          <name>.bII64</name>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -4300,9 +4296,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II64(+6)</name>
+          <name>.bII64(+6)</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -4605,9 +4599,7 @@
         </Measure>
       <Measure number="29">
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II64</name>
+          <name>.bII64</name>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -4618,9 +4610,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II64(+6)&quot;</name>
+          <name>.bII64(+6)]</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -4764,7 +4754,7 @@
         </Measure>
       <Measure number="30">
         <Harmony>
-          <name>VII&quot;viio6/VI</name>
+          <name>VII[viio6/VI</name>
           <pos x="-2.44253" y="-3.61024"/>
           </Harmony>
         <Chord>
@@ -4786,7 +4776,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>vii&quot;</name>
+          <name>vii]</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -5095,7 +5085,7 @@
         </Measure>
       <Measure number="32">
         <Harmony>
-          <name>vii&quot;viio6/VI</name>
+          <name>vii[viio6/VI</name>
           <pos x="-2.44253" y="-3.61024"/>
           </Harmony>
         <Chord>
@@ -5117,7 +5107,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>vii&quot;</name>
+          <name>vii]</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -5267,7 +5257,7 @@
         </Measure>
       <Measure number="33">
         <Harmony>
-          <name>III&quot;V7(+2)/VI</name>
+          <name>III[V7(+2)/VI</name>
           <pos x="0" y="-4.5"/>
           </Harmony>
         <Chord>
@@ -5312,9 +5302,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II6</name>
+          <name>.bII6</name>
           <pos x="-0.671695" y="-5.32112"/>
           </Harmony>
         <Chord>
@@ -5472,7 +5460,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>i6&quot;</name>
+          <name>i6]</name>
           <pos x="0" y="-5.85847"/>
           </Harmony>
         <Chord>
@@ -5609,9 +5597,7 @@
         </Measure>
       <Measure number="35">
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II&quot;bII(4)</name>
+          <name>.bII[bII(4)</name>
           <pos x="0" y="-5.5"/>
           </Harmony>
         <Chord>
@@ -5629,9 +5615,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II</name>
+          <name>.bII</name>
           <pos x="0" y="-4.11207"/>
           </Harmony>
         <Rest>
@@ -5640,9 +5624,7 @@
           </Rest>
         <tick>49920</tick>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II(+2)</name>
+          <name>.bII(+2)</name>
           <pos x="0" y="-4.11207"/>
           </Harmony>
         <tick>48960</tick>
@@ -5806,9 +5788,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>IIM7</name>
+          <name>.bIIM7</name>
           <pos x="0.134339" y="-4.24641"/>
           </Harmony>
         <Chord>
@@ -5908,9 +5888,7 @@
         </Measure>
       <Measure number="37">
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II(4)</name>
+          <name>.bII(4)</name>
           <pos x="-0.134339" y="-4.42529"/>
           </Harmony>
         <Chord>
@@ -5953,9 +5931,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II</name>
+          <name>.bII</name>
           <pos x="0" y="-4.11207"/>
           </Harmony>
         <Chord>
@@ -5995,9 +5971,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II(+2)&quot;</name>
+          <name>.bII(+2)]</name>
           <pos x="0" y="-4.11207"/>
           </Harmony>
         <Chord>
@@ -6039,7 +6013,7 @@
         </Measure>
       <Measure number="38">
         <Harmony>
-          <name>v5</name>
+          <name>v</name>
           <pos x="0.105019" y="-4.58225"/>
           </Harmony>
         <Chord>
@@ -6314,7 +6288,7 @@
         </Measure>
       <Measure number="40">
         <Harmony>
-          <name>v5</name>
+          <name>v</name>
           <pos x="0.105019" y="-4.58225"/>
           </Harmony>
         <Chord>
@@ -8181,9 +8155,7 @@
         </Measure>
       <Measure number="54">
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>V</name>
+          <name>.bV</name>
           <pos x="0" y="-5.15998"/>
           </Harmony>
         <Chord>
@@ -8381,9 +8353,7 @@
         </Measure>
       <Measure number="55">
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>V6</name>
+          <name>.bV6</name>
           </Harmony>
         <Chord>
           <durationType>16th</durationType>
@@ -8423,9 +8393,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II(+4)</name>
+          <name>.bII(+4)</name>
           </Harmony>
         <Chord>
           <durationType>16th</durationType>
@@ -8513,9 +8481,7 @@
         </Measure>
       <Measure number="56">
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>V</name>
+          <name>.bV</name>
           <pos x="0" y="-5.15998"/>
           </Harmony>
         <Chord>
@@ -8713,9 +8679,7 @@
         </Measure>
       <Measure number="57">
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>V6</name>
+          <name>.bV6</name>
           </Harmony>
         <Chord>
           <durationType>16th</durationType>
@@ -8755,9 +8719,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II(+4)</name>
+          <name>.bII(+4)</name>
           </Harmony>
         <Chord>
           <durationType>16th</durationType>
@@ -10613,9 +10575,7 @@
           <accidental>-3</accidental>
           </KeySig>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>V64</name>
+          <name>.bV64</name>
           <pos x="-1.54747" y="-3.53165"/>
           </Harmony>
         <Chord>
@@ -10638,9 +10598,7 @@
           <transposingClefType>G</transposingClefType>
           </Clef>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>V6</name>
+          <name>.bV6</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -10669,9 +10627,7 @@
           <transposingClefType>F</transposingClefType>
           </Clef>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>V64</name>
+          <name>.bV64</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -10722,9 +10678,7 @@
           <transposingClefType>G</transposingClefType>
           </Clef>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>V6</name>
+          <name>.bV6</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -10753,9 +10707,7 @@
           <transposingClefType>F</transposingClefType>
           </Clef>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>V64</name>
+          <name>.bV64</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -10913,9 +10865,7 @@
         </Measure>
       <Measure number="76">
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>II-vii6</name>
+          <name>.bII-vii6</name>
           </Harmony>
         <Chord>
           <durationType>16th</durationType>
@@ -11081,9 +11031,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <root>19</root>
-          <rootCase>1</rootCase>
-          <name>IV6</name>
+          <name>.bIV6</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
