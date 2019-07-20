@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.3.2</programVersion>
-  <programRevision>3543170</programRevision>
+  <programRevision>4592407</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -128,10 +128,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         </Page>
@@ -595,7 +591,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>vi</name>
+          <name>ii43</name>
           </Harmony>
         <Chord>
           <durationType>16th</durationType>
