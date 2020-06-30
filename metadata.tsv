@@ -1,5 +1,5 @@
-path	filename	extension	md5	label_count	KeySig	TimeSig	composer	musescore	source	workTitle	composed_start	composed_end	annotator	reviewer
-./Debussy_Suite_Bergamasque_1_Prelude.mscx	Debussy_Suite_Bergamasque_1_Prelude	.mscx	372de71b25c69d3c1915c7bdc10ec957	275	-1	4/4	Claude Debussy	2.3.2	http://musescore.com/score/890041	Suite Bergamasque	1890	1905	Adrian Nagel	Syntax
-./Debussy_Suite_Bergamasque_2_Menuet.mscx	Debussy_Suite_Bergamasque_2_Menuet	.mscx	10e7ffa8dececed9a18ddf220ad274d3	306	-3, 3, 0	3/4	Claude Debussy	2.3.2	http://musescore.com/score/890041	Suite Bergamasque	1890	1905	Adrian Nagel	Syntax
-./Debussy_Suite_Bergamasque_3_Claire_de_Lune.mscx	Debussy_Suite_Bergamasque_3_Claire_de_Lune	.mscx	81965122c6824aebd7e09590fc365760	150	-5, 4, -5	9/8	Claude Debussy	2.3.2	http://musescore.com/score/890041	Suite Bergamasque	1890	1905	Adrian Nagel	Syntax
-./Debussy_Suite_Bergamasque_4_Passepied.mscx	Debussy_Suite_Bergamasque_4_Passepied	.mscx	4d68bb7af84054fc9e9e836a3a1d8691	285	3, -4, 3	4/4	Claude Debussy	2.3.2	http://musescore.com/score/890041	Suite Bergamasque	1890	1905	Adrian Nagel	Syntax
+path	filename	extension	md5	label_count	KeySig	TimeSig	composer	musescore	source	workTitle
+MS3/Debussy_Suite_Bergamasque_1_Prelude.mscx	Debussy_Suite_Bergamasque_1_Prelude	.mscx	0143fa998e3a81d6a04219c39ca6311e	275	-1	4/4	Claude Debussy	3.4.2	http://musescore.com/score/890041	Suite Bergamasque
+MS3/Debussy_Suite_Bergamasque_2_Menuet.mscx	Debussy_Suite_Bergamasque_2_Menuet	.mscx	656ad3fb3dea89ae5806abda4dd2b22b	306	-3, 3, 0	3/4	Claude Debussy	3.4.2	http://musescore.com/score/890041	Suite Bergamasque
+MS3/Debussy_Suite_Bergamasque_3_Claire_de_Lune.mscx	Debussy_Suite_Bergamasque_3_Claire_de_Lune	.mscx	266b974f4b07c308dfaf1d08f0967d70	150	-5, 4, -5	9/8	Claude Debussy	3.4.2	http://musescore.com/score/890041	Suite Bergamasque
+MS3/Debussy_Suite_Bergamasque_4_Passepied.mscx	Debussy_Suite_Bergamasque_4_Passepied	.mscx	7914b32bdfda0124872a25d18516eef7	285	3, -4, 3	4/4	Claude Debussy	3.4.2	http://musescore.com/score/890041	Suite Bergamasque
