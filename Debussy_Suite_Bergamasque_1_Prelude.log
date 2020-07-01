@@ -1,0 +1,5 @@
+Attempting to parse Debussy_Suite_Bergamasque_1_Prelude.mscx
+Done parsing Debussy_Suite_Bergamasque_1_Prelude.mscx
+
+Failed to expand labels due to syntactic errors:
+'float' object is not iterable
