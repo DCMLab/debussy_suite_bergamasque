@@ -1,3 +1,15 @@
 Attempting to parse Debussy_Suite_Bergamasque_4_Passepied.mscx
 Done parsing Debussy_Suite_Bergamasque_4_Passepied.mscx
 
+The following chords could not be parsed:
+      mc   mn onset    label
+73    39   39   1/2  .Ger6/V
+77    41   41   1/2  .Ger6/V
+137   63   63     0     .bII
+139   64   64   1/2    .bIM7
+140   65   65     0     .bII
+159   76   76     0  .bIII.I
+263  138  138   1/2  .Ger6/V
+267  140  140   1/2  .Ger6/V
+Failed to expand labels due to syntactic errors:
+repl_spec() missing 1 required positional argument: 'special'

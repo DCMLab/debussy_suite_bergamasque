@@ -1,3 +1,13 @@
 Attempting to parse Debussy_Suite_Bergamasque_3_Claire_de_Lune.mscx
 Done parsing Debussy_Suite_Bergamasque_3_Claire_de_Lune.mscx
 
+The following chords could not be parsed:
+     mc  mn onset   label
+53   27  27   3/4  .bIII6
+56   28  28   3/4  .bIII6
+71   35  35   3/4  .bIII6
+139  67  67   3/8  .bIII6
+145  69  69   3/8  .bIII6
+147  70  70     0  .bIII6
+Failed to expand labels due to syntactic errors:
+repl_spec() missing 1 required positional argument: 'special'
