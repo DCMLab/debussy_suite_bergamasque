@@ -1,34 +1,4 @@
-Attempting to parse Debussy_Suite_Bergamasque_2_Menuet.mscx
-Done parsing Debussy_Suite_Bergamasque_2_Menuet.mscx
+INFO     Debussy_Suite_Bergamasque_2_Menuet.ms3 -- Attempting to parse Debussy_Suite_Bergamasque_2_Menuet.mscx
+INFO     Debussy_Suite_Bergamasque_2_Menuet.ms3 -- Done parsing Debussy_Suite_Bergamasque_2_Menuet.mscx
 
-The following chords could not be parsed:
-     mc  mn onset        label
-30   15  15   1/4        @none
-65   22  22     0          .bV
-74   27  27     0       .bII64
-75   27  27   3/8   .bII64(+6)
-79   29  29     0       .bII64
-80   29  29   3/8  .bII64(+6)]
-97   33  33   5/8        .bII6
-100  35  35     0  .bII[bII(4)
-101  35  35   1/4         .bII
-102  35  35   1/2     .bII(+2)
-104  36  36   1/8       .bIIM7
-106  37  37     0      .bII(4)
-107  37  37   1/4         .bII
-108  37  37   1/2    .bII(+2)]
-150  54  54     0          .bV
-151  55  55     0         .bV6
-153  55  55   1/4     .bII(+4)
-157  56  56     0          .bV
-158  57  57     0         .bV6
-160  57  57   1/4     .bII(+4)
-232  73  73     0        .bV64
-233  73  73   1/4         .bV6
-234  73  73   1/2        .bV64
-235  74  74   1/4         .bV6
-236  74  74   1/2        .bV64
-239  76  76     0         .bII
-244  77  77   1/2        .bIV6
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+WARNING  Debussy_Suite_Bergamasque_2_Menuet.expand_labels -- #viio7 in major context is most probably an annotation error.
