@@ -1,4 +1,4 @@
 INFO     Debussy_Suite_Bergamasque_2_Menuet.ms3 -- Attempting to parse Debussy_Suite_Bergamasque_2_Menuet.mscx
 INFO     Debussy_Suite_Bergamasque_2_Menuet.ms3 -- Done parsing Debussy_Suite_Bergamasque_2_Menuet.mscx
 
-WARNING  Debussy_Suite_Bergamasque_2_Menuet.expand_labels -- #viio7 in major context is most probably an annotation error.
+WARNING  Debussy_Suite_Bergamasque_2_Menuet.expand_labels -- MC 62: #viio7 in major context is most probably an annotation error.
