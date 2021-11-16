@@ -1,0 +1,4 @@
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/Debussy_Suite_Bergamasque_1_Prelude.html" height="600" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/Debussy_Suite_Bergamasque_2_Menuet.html" height="600" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/Debussy_Suite_Bergamasque_3_Claire_de_Lune.html" height="600" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/Debussy_Suite_Bergamasque_4_Passepied.html" height="600" width="100%"></iframe>
