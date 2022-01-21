@@ -21796,7 +21796,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/IV</name>
+            <name>V7/iv</name>
             </Harmony>
           </voice>
         <voice>
@@ -21911,7 +21911,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(+4+#2)/IV</name>
+            <name>ii(+4+#2)/iv</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -21936,14 +21936,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii/IV</name>
+            <name>ii/iv</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(+2)/IV</name>
+            <name>V7(+2)/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -21957,7 +21957,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/IV</name>
+            <name>V7/iv</name>
             </Harmony>
           </voice>
         </Measure>
