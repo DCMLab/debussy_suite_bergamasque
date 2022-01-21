@@ -20105,7 +20105,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii6</name>
+            <name>vi6/bII</name>
             <offset x="-0.537356" y="-3.97773"/>
             </Harmony>
           <Chord>
@@ -20146,7 +20146,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43</name>
+            <name>vii%43/bII</name>
             <offset x="0.134339" y="-3.84339"/>
             </Harmony>
           <Chord>
