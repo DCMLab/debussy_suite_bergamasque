@@ -16618,7 +16618,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7(+2)</name>
+            <name>VIM7(+2)|DC</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
