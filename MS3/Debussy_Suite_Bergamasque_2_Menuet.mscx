@@ -25019,11 +25019,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV</name>
-            <offset x="-0.63945" y="-4.84465"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
