@@ -16926,7 +16926,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>V65(+2)/III</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -16956,7 +16956,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>V65(+2)/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -17055,7 +17055,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>V65(+2)/III</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -17085,7 +17085,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>V65(+2)/III</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
