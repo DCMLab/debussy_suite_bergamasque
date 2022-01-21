@@ -17556,7 +17556,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/VII</name>
+            <name>IV7(+6)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -17753,11 +17753,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>@none</name>
-            <offset x="-0.833045" y="-5.62392"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
