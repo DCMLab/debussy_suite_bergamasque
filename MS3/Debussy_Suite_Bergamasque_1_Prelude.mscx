@@ -20887,7 +20887,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(+2)</name>
+            <name>I(+2)|IAC}{</name>
             <offset x="1.64309" y="-5.91077"/>
             </Harmony>
           <Chord>
