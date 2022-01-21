@@ -17472,7 +17472,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7(+6)</name>
+            <name>iv7(+6)|DC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
