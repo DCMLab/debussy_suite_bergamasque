@@ -18740,7 +18740,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bV</name>
+            <name>bV-bVI/vii</name>
             <offset x="-0.1" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -18872,7 +18872,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i%7</name>
+            <name>ii%7/vii</name>
             <offset x="0" y="-4"/>
             </Harmony>
           <Chord>
@@ -18901,7 +18901,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(+4)</name>
+            <name>v-V(+4)/vii</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
