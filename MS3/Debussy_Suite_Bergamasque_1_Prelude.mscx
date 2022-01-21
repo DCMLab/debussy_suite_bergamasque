@@ -14511,7 +14511,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>F.I</name>
+            <name>F.I{</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -15105,7 +15105,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
