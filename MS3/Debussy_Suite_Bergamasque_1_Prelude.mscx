@@ -3985,8 +3985,8 @@
                 </prev>
               </Spanner>
             <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -17149,7 +17149,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i{</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Chord>
