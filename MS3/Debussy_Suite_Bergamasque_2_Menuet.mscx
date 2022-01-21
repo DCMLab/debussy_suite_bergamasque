@@ -20577,7 +20577,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(+6+2)/VII</name>
+            <name>IV7(+6+2)</name>
             <offset x="-0.940373" y="-3.97773"/>
             </Harmony>
           <Chord>
@@ -20757,7 +20757,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/VII</name>
+            <name>IV2-V2/VII</name>
             <offset x="-1.07471" y="-5.99281"/>
             </Harmony>
           <Chord>
@@ -20791,7 +20791,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(+2)/VII</name>
+            <name>IV7(+2)-V7(+2)/VII</name>
             <offset x="-1.61207" y="-6.26149"/>
             </Harmony>
           <Chord>
@@ -21087,7 +21087,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
