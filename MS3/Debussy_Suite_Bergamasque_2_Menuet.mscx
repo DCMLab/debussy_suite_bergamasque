@@ -21911,7 +21911,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v(+4+#2)</name>
+            <name>ii(+4+#2)/IV</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -21936,7 +21936,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>ii/IV</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
