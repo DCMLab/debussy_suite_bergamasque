@@ -22976,7 +22976,7 @@
             </KeySig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bV64</name>
+            <name>bV64|EC</name>
             <offset x="-1.54747" y="-3.53165"/>
             </Harmony>
           <Chord>
