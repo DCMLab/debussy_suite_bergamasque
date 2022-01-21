@@ -19110,7 +19110,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI[V7(42)/bII</name>
+            <name>V/bII[V7(42)/bII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
