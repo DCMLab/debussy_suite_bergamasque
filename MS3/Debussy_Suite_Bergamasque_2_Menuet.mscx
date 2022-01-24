@@ -21072,7 +21072,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(742)}</name>
+            <name>i(742)|PAC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -21087,7 +21087,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC</name>
+            <name>i}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
