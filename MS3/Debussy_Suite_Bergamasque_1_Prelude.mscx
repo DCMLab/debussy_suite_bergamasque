@@ -22871,7 +22871,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I|PC}</name>
             <offset x="0.43951" y="-3.05213"/>
             </Harmony>
           <Chord>
@@ -22920,10 +22920,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>|PAC</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
