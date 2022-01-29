@@ -21688,7 +21688,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i2</name>
+            <name>i2{</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
@@ -22795,7 +22795,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
