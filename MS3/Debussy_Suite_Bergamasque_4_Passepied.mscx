@@ -4830,9 +4830,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Spanner type="HairPin">
             <HairPin>
@@ -19502,7 +19499,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>ii-bIII.I</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Rest>
@@ -19619,11 +19616,6 @@
           <KeySig>
             <accidental>-4</accidental>
             </KeySig>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bIII.I</name>
-            <offset x="-1.14185" y="-5.42555"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
