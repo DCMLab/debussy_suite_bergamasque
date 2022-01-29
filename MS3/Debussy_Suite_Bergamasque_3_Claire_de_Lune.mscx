@@ -8113,7 +8113,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Db.I6</name>
+            <name>Db.I6{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -8749,7 +8749,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
