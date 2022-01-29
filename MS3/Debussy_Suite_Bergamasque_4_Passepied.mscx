@@ -21617,7 +21617,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>V2|HC}</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Chord>
