@@ -17735,7 +17735,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -18728,7 +18728,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I</name>
             <offset x="-2.22386" y="-4.61267"/>
             </Harmony>
           <Chord>
