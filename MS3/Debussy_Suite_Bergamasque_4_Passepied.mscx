@@ -22913,7 +22913,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65(+2)/VI</name>
+            <name>V65(+2)/VI{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -24556,7 +24556,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|PAC}{</name>
             <offset x="0" y="-5.5"/>
             </Harmony>
           <Chord>
