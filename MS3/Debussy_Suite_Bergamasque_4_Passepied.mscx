@@ -13683,7 +13683,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>f#.i</name>
+            <name>f#.i{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14932,7 +14932,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
