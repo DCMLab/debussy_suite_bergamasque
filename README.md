@@ -8,7 +8,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 # Overview
 |                file_name                 |measures|labels|standard|               annotators                |reviewers|
 |------------------------------------------|-------:|-----:|--------|-----------------------------------------|---------|
-|Debussy_Suite_Bergamasque_1_Prelude       |      89|   275|2.1.1   |Adrian Nagel                             |         |
+|Debussy_Suite_Bergamasque_1_Prelude       |      89|   274|2.3.0   |Adrian Nagel (2.1.1), Amelia Brey (2.3.0)|AB, AN   |
 |Debussy_Suite_Bergamasque_2_Menuet        |     104|   305|2.3.0   |Adrian Nagel (2.1.1), Amelia Brey (2.3.0)|AB, AN   |
 |Debussy_Suite_Bergamasque_3_Claire_de_Lune|      72|   150|2.3.0   |Adrian Nagel (2.1.1), Amelia Brey (2.3.0)|AB, AN   |
 |Debussy_Suite_Bergamasque_4_Passepied     |     156|   285|2.1.1   |Adrian Nagel                             |         |
