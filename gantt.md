@@ -1,4 +1,4 @@
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/Debussy_Suite_Bergamasque_1_Prelude.html" height="600" width="100%"></iframe>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/Debussy_Suite_Bergamasque_2_Menuet.html" height="600" width="100%"></iframe>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/Debussy_Suite_Bergamasque_3_Claire_de_Lune.html" height="600" width="100%"></iframe>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/Debussy_Suite_Bergamasque_4_Passepied.html" height="600" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/l075-01_suite_prelude.html" height="600" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/l075-02_suite_menuet.html" height="600" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/l075-03_suite_clair.html" height="600" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/l075-04_suite_passepied.html" height="600" width="100%"></iframe>
