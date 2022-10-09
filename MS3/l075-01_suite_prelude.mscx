@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -10591,16 +10591,6 @@
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
@@ -10610,6 +10600,16 @@
                 <off2 x="-4.3991" y="0"/>
                 </Segment>
               </Trill>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              </HairPin>
             <next>
               <location>
                 <measures>1</measures>
@@ -10685,14 +10685,14 @@
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
-          <Spanner type="HairPin">
+          <Spanner type="Trill">
             <prev>
               <location>
                 <measures>-1</measures>
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="Trill">
+          <Spanner type="HairPin">
             <prev>
               <location>
                 <measures>-1</measures>
@@ -18817,7 +18817,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V2</name>
+            <name>I.V2{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
