@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision/>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -147,6 +147,7 @@
     <metaTag name="annotators">Adrian Nagel (2.1.1), Amelia Brey (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1905</metaTag>
+    <metaTag name="composed_source">OxfordMusicOnline</metaTag>
     <metaTag name="composed_start">1890</metaTag>
     <metaTag name="composer">Claude Debussy</metaTag>
     <metaTag name="copyright"></metaTag>
@@ -379,6 +380,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -393,6 +395,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -407,6 +410,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -421,6 +425,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -446,6 +451,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -646,6 +652,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -653,6 +660,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -660,6 +668,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -725,6 +734,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -790,6 +800,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -804,6 +815,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -934,6 +946,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -955,6 +968,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -1039,6 +1053,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -1046,6 +1061,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1167,6 +1183,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -1306,6 +1323,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -1320,6 +1338,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -1334,6 +1353,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -1348,6 +1368,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -1373,6 +1394,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -1509,6 +1531,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -1523,6 +1546,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -1560,6 +1584,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -1609,6 +1634,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -1639,6 +1665,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -1653,6 +1680,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -1711,6 +1739,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -1846,10 +1875,12 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalNatural</subtype>
@@ -1899,10 +1930,12 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -2181,6 +2214,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalNatural</subtype>
@@ -2189,6 +2223,7 @@
               <tpc>14</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -2234,10 +2269,12 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -2462,6 +2499,7 @@
                 </next>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalNatural</subtype>
@@ -2480,6 +2518,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -2531,6 +2570,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -2659,6 +2699,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -2678,6 +2719,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -2693,6 +2735,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -2862,6 +2905,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -3032,6 +3076,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -3176,10 +3221,12 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -3886,6 +3933,7 @@
                 </next>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
@@ -4211,6 +4259,7 @@
           <Chord>
             <durationType>32nd</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -4248,6 +4297,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>88</pitch>
               <tpc>18</tpc>
               </Note>
@@ -4278,6 +4328,7 @@
           <Chord>
             <durationType>32nd</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -4422,6 +4473,7 @@
           <Chord>
             <durationType>32nd</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -4442,6 +4494,7 @@
           <Chord>
             <durationType>32nd</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -4470,6 +4523,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>88</pitch>
               <tpc>18</tpc>
               </Note>
@@ -4509,6 +4563,7 @@
           <Chord>
             <durationType>32nd</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -4568,6 +4623,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -4734,6 +4790,7 @@
                 </next>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>61</pitch>
               <tpc>21</tpc>
               </Note>
@@ -4741,6 +4798,7 @@
           <Chord>
             <durationType>32nd</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>63</pitch>
               <tpc>23</tpc>
               </Note>
@@ -4755,6 +4813,7 @@
           <Chord>
             <durationType>32nd</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>66</pitch>
               <tpc>20</tpc>
               </Note>
@@ -5006,6 +5065,7 @@
                 </next>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>73</pitch>
               <tpc>21</tpc>
               </Note>
@@ -5013,6 +5073,7 @@
           <Chord>
             <durationType>32nd</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>75</pitch>
               <tpc>23</tpc>
               </Note>
@@ -5027,6 +5088,7 @@
           <Chord>
             <durationType>32nd</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -5173,6 +5235,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalNatural</subtype>
@@ -5184,6 +5247,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -5201,6 +5265,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalNatural</subtype>
@@ -5249,6 +5314,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -5256,6 +5322,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -5293,6 +5360,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -5300,6 +5368,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -5424,6 +5493,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -5431,6 +5501,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -5464,6 +5535,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -5642,6 +5714,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -5677,6 +5750,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>68</pitch>
               <tpc>22</tpc>
               </Note>
@@ -5728,6 +5802,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>68</pitch>
               <tpc>22</tpc>
               </Note>
@@ -5808,6 +5883,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalNatural</subtype>
@@ -5870,6 +5946,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -5944,6 +6021,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -6002,6 +6080,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -6079,6 +6158,7 @@
               <anchor>4</anchor>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -6107,6 +6187,7 @@
               <anchor>4</anchor>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -6143,6 +6224,7 @@
               <anchor>4</anchor>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -6157,6 +6239,7 @@
               <anchor>3</anchor>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -6179,6 +6262,7 @@
               <anchor>3</anchor>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -6210,6 +6294,7 @@
               <anchor>3</anchor>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -6235,6 +6320,7 @@
               <anchor>3</anchor>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>84</pitch>
               <tpc>14</tpc>
               </Note>
@@ -6246,6 +6332,7 @@
               <anchor>3</anchor>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>86</pitch>
               <tpc>16</tpc>
               </Note>
@@ -6961,6 +7048,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
@@ -7349,6 +7437,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -7367,6 +7456,7 @@
           <Chord>
             <durationType>32nd</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -7604,6 +7694,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -7641,10 +7732,12 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
@@ -7926,6 +8019,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -7963,10 +8057,12 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
@@ -8126,6 +8222,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -8214,6 +8311,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -8251,10 +8349,12 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -8364,6 +8464,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -8531,6 +8632,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -8568,10 +8670,12 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -8672,6 +8776,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -8730,6 +8835,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>82</pitch>
               <tpc>12</tpc>
               </Note>
@@ -8904,6 +9010,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -8926,6 +9033,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -8948,6 +9056,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -8978,6 +9087,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -9139,6 +9249,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -9161,6 +9272,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -9175,6 +9287,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -9237,6 +9350,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -9428,6 +9542,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -9450,6 +9565,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -9470,6 +9586,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>68</pitch>
               <tpc>22</tpc>
               </Note>
@@ -9491,6 +9608,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>68</pitch>
               <tpc>22</tpc>
               </Note>
@@ -9658,6 +9776,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -9680,6 +9799,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -9700,6 +9820,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>68</pitch>
               <tpc>22</tpc>
               </Note>
@@ -9738,6 +9859,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>68</pitch>
               <tpc>22</tpc>
               </Note>
@@ -10017,6 +10139,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -10054,6 +10177,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -10346,6 +10470,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -10383,6 +10508,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -10485,6 +10611,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -10522,6 +10649,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -10832,6 +10960,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -10846,6 +10975,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -10860,6 +10990,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -10874,6 +11005,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -10888,6 +11020,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -11061,6 +11194,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -11082,6 +11216,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -11114,6 +11249,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -11218,6 +11354,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -11239,6 +11376,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -11267,6 +11405,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -11366,6 +11505,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -11387,6 +11527,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -11463,6 +11604,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -11470,6 +11612,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -11602,6 +11745,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -11764,6 +11908,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -11778,6 +11923,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -11792,6 +11938,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -11806,6 +11953,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -11820,6 +11968,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -12007,6 +12156,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -12021,6 +12171,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -12035,6 +12186,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -12056,6 +12208,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -12143,6 +12296,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -12157,6 +12311,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -12171,6 +12326,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -12192,6 +12348,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -12249,6 +12406,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -12311,6 +12469,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -12359,6 +12518,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -12407,6 +12567,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -12588,6 +12749,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -12632,6 +12794,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -12678,6 +12841,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -12722,6 +12886,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -12916,6 +13081,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>84</pitch>
               <tpc>14</tpc>
               </Note>
@@ -12960,6 +13126,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -13004,6 +13171,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -13018,6 +13186,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>84</pitch>
               <tpc>14</tpc>
               </Note>
@@ -13032,6 +13201,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>88</pitch>
               <tpc>18</tpc>
               </Note>
@@ -13157,6 +13327,7 @@
                 </next>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -13171,6 +13342,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -13213,6 +13385,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>89</pitch>
               <tpc>13</tpc>
               </Note>
@@ -13332,6 +13505,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -13367,6 +13541,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>89</pitch>
               <tpc>13</tpc>
               </Note>
@@ -13484,10 +13659,12 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -13602,6 +13779,7 @@
               <subtype>articAccentAbove</subtype>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -13635,6 +13813,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -13674,6 +13853,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>89</pitch>
               <tpc>13</tpc>
               </Note>
@@ -13820,10 +14000,12 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -13944,6 +14126,7 @@
               <subtype>articAccentBelow</subtype>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -13984,6 +14167,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -14023,6 +14207,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>89</pitch>
               <tpc>13</tpc>
               </Note>
@@ -14116,6 +14301,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -14147,6 +14333,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -14222,6 +14409,7 @@
               <subtype>articAccentAbove</subtype>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -14242,6 +14430,7 @@
               <subtype>articAccentAbove</subtype>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -14262,6 +14451,7 @@
               <subtype>articAccentAbove</subtype>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -14282,6 +14472,7 @@
               <subtype>articAccentAbove</subtype>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -14381,6 +14572,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -14912,6 +15104,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -14959,6 +15152,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -14974,6 +15168,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -15064,6 +15259,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -15095,6 +15291,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -15544,6 +15741,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalNatural</subtype>
@@ -15552,6 +15750,7 @@
               <tpc>18</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -15570,6 +15769,7 @@
               <tpc>13</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -15601,10 +15801,12 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -15885,10 +16087,12 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -15907,6 +16111,7 @@
               <tpc>13</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -15938,10 +16143,12 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -16240,6 +16447,7 @@
                 </next>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -16258,6 +16466,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -16278,6 +16487,7 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
@@ -16552,6 +16762,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -17095,6 +17306,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -18817,13 +19029,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V2</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>I.V2{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18893,10 +19099,12 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>29</pitch>
               <tpc>13</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
@@ -18975,10 +19183,12 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>24</pitch>
               <tpc>14</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>36</pitch>
               <tpc>14</tpc>
               </Note>
@@ -19093,10 +19303,12 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>29</pitch>
               <tpc>13</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
@@ -19175,10 +19387,12 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>24</pitch>
               <tpc>14</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>36</pitch>
               <tpc>14</tpc>
               </Note>
@@ -19311,6 +19525,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -19530,6 +19745,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -19618,6 +19834,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -20347,6 +20564,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -20384,6 +20602,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -20605,6 +20824,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -20626,6 +20846,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -20723,6 +20944,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -20760,6 +20982,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -21291,6 +21514,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -21338,6 +21562,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -21353,6 +21578,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -21443,6 +21669,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -21470,6 +21697,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -22663,6 +22891,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
@@ -22691,6 +22920,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
@@ -22733,6 +22963,7 @@
               <subtype>articAccentBelow</subtype>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
@@ -22753,6 +22984,7 @@
               <subtype>articAccentBelow</subtype>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
@@ -22773,6 +23005,7 @@
               <subtype>articAccentBelow</subtype>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -22793,6 +23026,7 @@
               <subtype>articAccentBelow</subtype>
               </Articulation>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
