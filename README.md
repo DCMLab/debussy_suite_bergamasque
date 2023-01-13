@@ -186,4 +186,4 @@ The file names listed in the [Overview](#overview) below refer to the
 |l075-04_suite_passepied|     156|   284|2.3.0   |Adrian Nagel (2.1.1), Amelia Brey (2.3.0)|AB, AN   |
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.0.4.*
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.1.1.*

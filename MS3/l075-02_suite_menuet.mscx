@@ -147,22 +147,27 @@
     <metaTag name="annotators">Adrian Nagel (2.1.1), Amelia Brey (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1905</metaTag>
-    <metaTag name="composed_source">OxfordMusicOnline</metaTag>
+    <metaTag name="composed_source">Oxford Music Online</metaTag>
     <metaTag name="composed_start">1890</metaTag>
     <metaTag name="composer">Claude Debussy</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2015-05-19</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Suite_bergamasque_(Debussy%2C_Claude)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">2</metaTag>
+    <metaTag name="movementTitle">Menuet</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/82ea1cd4-1692-3b55-99a8-9b387cfa2ba3</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">AB, AN</metaTag>
     <metaTag name="source">http://musescore.com/score/890041</metaTag>
+    <metaTag name="text">; &lt;b&gt;Menuet&lt;/b&gt;</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/177398380</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q29117940</metaTag>
+    <metaTag name="workNumber">L.75</metaTag>
     <metaTag name="workTitle">Suite Bergamasque</metaTag>
     <Part>
       <Staff id="1">
@@ -235,6 +240,10 @@
         <Text>
           <style>Title</style>
           <text>Suite Bergamasque</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>2. Menuet</text>
           </Text>
         <Text>
           <style>Composer</style>
