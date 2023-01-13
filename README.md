@@ -1,5 +1,10 @@
+![Version](https://img.shields.io/github/v/release/DCMLab/debussy_suite_bergamasque?display_name=tag)
+[![DOI](https://zenodo.org/badge/383823308.svg)](https://zenodo.org/badge/latestdoi/383823308)
+![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/debussy_suite_bergamasque)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
+
 <!-- TOC -->
-* [Debussy - Suite Bergamasque](#debussy---suite-bergamasque)
+* [Claude Debussy - Suite Bergamasque (A corpus of annotated scores)](#claude-debussy---suite-bergamasque--a-corpus-of-annotated-scores-)
   * [Getting the data](#getting-the-data)
     * [With full version history](#with-full-version-history)
     * [Without full version history](#without-full-version-history)
@@ -19,15 +24,24 @@
 * [Overview](#overview)
 <!-- TOC -->
 
-# Debussy - Suite Bergamasque
+# Claude Debussy - Suite Bergamasque (A corpus of annotated scores)
 
+This corpus of annotated [MuseScore](https://musescore.org) files has been created within
+the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
+the [DCML harmony annotation standard](https://github.com/DCMLab/standards). It is one out of nine similar corpora that
+have been grouped together
+to [An Annotated Corpus of Tonal Piano Music from the Long 19th Century](https://github.com/DCMLab/romantic_piano_corpus)
+which comes with a data report that is currently under review.
 
-This corpus has been created within the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
-the [DCML harmony annotation standard](https://github.com/DCMLab/standards).
+**Version 1** has been released for submitting it as part of the data
+report `Hentschel, J., Rammos, Y., Neuwirth, M., Rohrmeier, M. (forthcoming). An Annotated Corpus of Tonal Piano Music from the Long 19th Century`
+that accompanies nine corpora grouped under the DOI [10.5281/zenodo.7483349](https://doi.org/10.5281/zenodo.7483349).
 
-It is part of a larger dataset that has been submitted for publication as 
-`Hentschel, J., Rammos, Y., Neuwirth, M., Rohrmeier, M. (forthcoming). 
-An Annotated Corpus of Tonal Piano Music from the Long 19th Century`.
+**Version 1.1** comes with a complete set of metadata and score headers. Among more accurate composition dates, the
+metadata now include URIs that identify the compositions in terms of
+the [Virtual International Authority File (VIAF)](https://viaf.org/), [Wikidata](https://www.wikidata.org), [IMSLP](https://imslp.org/)
+and [MusicBrainz](https://musicbrainz.org/). The data has been re-extracted from the scores
+using [ms3 1.1.1](https://pypi.org/project/ms3/).
 
 ## Getting the data
 
