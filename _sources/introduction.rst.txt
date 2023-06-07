@@ -16,7 +16,9 @@ Then you can clone this repository using the command
 
 .. code:: bash
 
+
    git clone https://github.com/DCMLab/debussy_suite_bergamasque.git
+
 
 Without full version history
 ----------------------------
@@ -30,10 +32,10 @@ Data Formats
 
 Each piece in this corpus is represented by four files with identical names, each in its own folder. For example, the *Prélude* has the following files:
 
--  ``{{ example_subcorpus }}MS3/l075-01_suite_prelude.mscx``: Uncompressed MuseScore file including the music and annotation labels.
--  ``{{ example_subcorpus }}notes/l075-01_suite_prelude.tsv``: A table of all note heads contained in the score and their relevant features (not each of them represents an onset, some are tied together)
--  ``{{ example_subcorpus }}measures/l075-01_suite_prelude.tsv``: A table with relevant information about the measures in the score.
--  ``{{ example_subcorpus }}harmonies/l075-01_suite_prelude.tsv``: A list of the included harmony labels (including cadences and phrases) with their positions in the score.
+-  ``MS3/l075-01_suite_prelude.mscx``: Uncompressed MuseScore file including the music and annotation labels.
+-  ``notes/l075-01_suite_prelude.tsv``: A table of all note heads contained in the score and their relevant features (not each of them represents an onset, some are tied together)
+-  ``measures/l075-01_suite_prelude.tsv``: A table with relevant information about the measures in the score.
+-  ``harmonies/l075-01_suite_prelude.tsv``: A list of the included harmony labels (including cadences and phrases) with their positions in the score.
 
 Opening Scores
 --------------
@@ -54,8 +56,8 @@ Since the TSV files contain null values, lists, fractions, and numbers that are 
 
    import ms3
 
-   labels = ms3.load_tsv('{{ example_subcorpus }}harmonies/l075-01_suite_prelude.tsv')
-   notes = ms3.load_tsv('{{ example_subcorpus }}notes/l075-01_suite_prelude.tsv')
+   labels = ms3.load_tsv('harmonies/l075-01_suite_prelude.tsv')
+   notes = ms3.load_tsv('notes/l075-01_suite_prelude.tsv')
 
 How to read ``metadata.tsv``
 ============================
@@ -172,7 +174,7 @@ By adding the flag ``-c`` to the review command, it will additionally compare th
 Questions, Suggestions, Corrections, Bug Reports
 ================================================
 
-For questions, remarks etc., please create an issue and feel free to fork and submit pull requests.
+For questions, remarks etc., please [create an issue](https://dcmlab.github.io/debussy_suite_bergamasque/issues) and feel free to fork and submit pull requests.
 
 License
 =======
