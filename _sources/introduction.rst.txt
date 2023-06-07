@@ -23,9 +23,11 @@ Then you can clone this repository using the command
 Without full version history
 ----------------------------
 
+
 If you are only interested in the current version of the corpus, you can download and unpack:
 
 * `Claude Debussy – Suite Bergamasque <https://github.com/DCMLab/debussy_suite_bergamasque/archive/refs/heads/main.zip>`__
+
 
 Data Formats
 ============
@@ -174,7 +176,7 @@ By adding the flag ``-c`` to the review command, it will additionally compare th
 Questions, Suggestions, Corrections, Bug Reports
 ================================================
 
-For questions, remarks etc., please [create an issue](https://dcmlab.github.io/debussy_suite_bergamasque/issues) and feel free to fork and submit pull requests.
+For questions, remarks etc., please `create an issue <https://dcmlab.github.io/debussy_suite_bergamasque/issues>`__ and feel free to fork and submit pull requests.
 
 License
 =======
