@@ -9,7 +9,7 @@
 project = 'Claude Debussy – Suite Bergamasque'
 copyright = '2023, Johannes Hentschel'
 author = 'Johannes Hentschel'
-release = '0.4.0'
+release = 'v1.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
