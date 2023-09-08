@@ -19,18 +19,12 @@ the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
 the [DCML harmony annotation standard](https://github.com/DCMLab/standards). 
 It forms part of two datasets: 
 
-* [An Annotated Corpus of Tonal Piano Music from the Long 19th Century](https://github.com/DCMLab/romantic_piano_corpus)
-* [The Claude Debussy Solo Piano Corpus](https://github.com/DCMLab/debussy_piano)
+* [An Annotated Corpus of Tonal Piano Music from the Long 19th Century](https://doi.org/10.5281/zenodo.7483349)
+* [The Claude Debussy Solo Piano Corpus](https://doi.org/10.5281/zenodo.7963255)
 
-**Version 1** has been released for submitting it as part of the data
-report `Hentschel, J., Rammos, Y., Neuwirth, M., Rohrmeier, M. (forthcoming). An Annotated Corpus of Tonal Piano Music from the Long 19th Century`
-that accompanies nine corpora grouped under the DOI [10.5281/zenodo.7483349](https://doi.org/10.5281/zenodo.7483349).
+## Version history
 
-**Version 1.1** comes with a complete set of metadata and score headers. Among more accurate composition dates, the
-metadata now include URIs that identify the compositions in terms of
-the [Virtual International Authority File (VIAF)](https://viaf.org/), [Wikidata](https://www.wikidata.org), [IMSLP](https://imslp.org/)
-and [MusicBrainz](https://musicbrainz.org/). The data has been re-extracted from the scores
-using [ms3 1.1.1](https://pypi.org/project/ms3/).
+See the [GitHub releases](https://github.com/DCMLab/debussy_suite_bergamasque/releases).
 
 ## License
 
@@ -45,4 +39,4 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 |l075-04_suite_passepied|     156|   284|2.3.0   |Adrian Nagel (2.1.1), Amelia Brey (2.3.0)|AB, AN   |
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.1.1.*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
