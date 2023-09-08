@@ -45,4 +45,4 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 |l075-04_suite_passepied|     156|   284|2.3.0   |Adrian Nagel (2.1.1), Amelia Brey (2.3.0)|AB, AN   |
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.1.1.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
