@@ -1,7 +1,7 @@
 {
-  "name": "l075-04_suite_passepied.harmonies",
+  "name": "l075-03_suite_clair.chords",
   "type": "table",
-  "path": "l075-04_suite_passepied.harmonies.tsv",
+  "path": "l075-03_suite_clair.chords.tsv",
   "scheme": "file",
   "format": "tsv",
   "mediatype": "text/tsv",
@@ -11,7 +11,7 @@
       "delimiter": "\t"
     }
   },
-  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/harmonies/nL-Xqg4u1Wtb8A.schema.yaml",
+  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/chords/p2nqk-9Ho3_Wnw.schema.yaml",
   "creator": {
     "@context": "https://schema.org/",
     "@type": "SoftwareApplication",
