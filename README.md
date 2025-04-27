@@ -12,6 +12,17 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/debussy_suite_bergamasque/introduction).
 
+When you use (parts of) this dataset in your work, please read and cite the accompanying data report:
+
+_Hentschel, J., Rammos, Y., Neuwirth, M., Moss, F. C., & Rohrmeier, M. (2024). An annotated corpus of tonal piano music 
+from the long 19th century. Empirical Musicology Review, 18(1), 84–95. https://doi.org/10.18061/emr.v18i1.8903_
+
+This corpus forms part of the larger [Distant Listening Corpus](https://github.com/DCMLab/distant_listening_corpus)
+which constitutes a data infrastructure the data report of which has implications for the present corpus, too:
+
+_Hentschel, J., Rammos, Y., Neuwirth, M., & Rohrmeier, M. (2025). A corpus and a modular infrastructure for the 
+empirical study of (an)notated music. Scientific Data, 12(1), 685. https://doi.org/10.1038/s41597-025-04976-z_
+
 # Claude Debussy - Suite Bergamasque (A corpus of annotated scores)
 
 This corpus of annotated [MuseScore](https://musescore.org) files has been created within
@@ -21,6 +32,7 @@ It forms part of two datasets:
 
 * [An Annotated Corpus of Tonal Piano Music from the Long 19th Century](https://doi.org/10.5281/zenodo.7483349)
 * [The Claude Debussy Solo Piano Corpus](https://doi.org/10.5281/zenodo.7963255)
+* [The Distant Listening Corpus](https://doi.org/10.5281/zenodo.13844105)
 
 ## Getting the data
 
